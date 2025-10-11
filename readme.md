@@ -21,7 +21,7 @@ embedded_example_file: "examples/Grove_Differential_Amplifier_v1.0_minimal/Grove
 
 # Verstärker
 
-![Verstärker](71_verstaerker.jpg)
+![Verstärker](./71_verstaerker.jpg)
 
 ## Beschreibung
 Das Verstärker-Modul ermöglicht es, kleine Spannungen zu verstärken, um sie beispielweise für einen Mikrocontroller messbar zu machen. So können Spannungen erfasst werden, die in ihrer ursprünglichen Form zu klein für die direkte Erfassung mit einem Mikrocontroller sind.
