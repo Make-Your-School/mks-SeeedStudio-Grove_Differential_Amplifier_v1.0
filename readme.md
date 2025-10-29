@@ -15,9 +15,6 @@ clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Differenti
 repo_prefix: "mks"
 repo_part: "Grove_Differential_Amplifier_v1.0"
 embedded_example_file: "examples/Grove_Differential_Amplifier_v1.0_minimal/Grove_Differential_Amplifier_v1.0_minimal.ino"
-title: 'Verstärker'
-status: 'active'
-difficulty: 'expert'
 ---
 
 
